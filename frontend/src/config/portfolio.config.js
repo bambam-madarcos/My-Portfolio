@@ -169,8 +169,18 @@ const config = {
         id: "history",
         label: "C.",
         title: "History / Background",
+        image: "/images/H.png",
         body: [
-          "The Philippine Red Cross Occidental Mindoro Chapter was established to extend the humanitarian services of the national society to the province, focusing on disaster response, blood services, and community health programs. Over the years, it has grown into a key local institution, actively supporting emergency operations and promoting volunteerism in partnership with local government units and communities.",
+          "The Occidental Mindoro Red Cross Chapter was separated from Batangas-Mindoro Chapter in 1958. The first chairman of the board of directors was the late Governor Mariano Tajonera, followed by the present chairman, Governor Arsenio L. Villaroza. The new chapter since its independence was administered by Mrs. Fanny Lesaca until 1962. After her, came Mrs. Jaunaria C. Padilla who was administrator until September 1971. From September 1971 to date, Mr. Jose S. Rodil runs the chapter.",
+          "The first board members of the chapter was composed of Gov. Mariano Tajonera as chairman; Mayor Teodoro Malabanan as vice chairman; Atty. Amador Catama Jr. as secretary; Provincial Treasurer Paulino Ganda as treasurer; Provincial Auditor Santiago Maceren as Auditor; with Fiscal Alfonso Adora, Dr. Benjamin Velasco, Mayor Domingo Niebres, Supt. Vicente Lavides, Engr. Artemio Tiangco, Mayor Julian Villena, Victoriano Dinglasan, Mario San Luis, Apolo Tria, Reynaldo Isler, Pedro Florescio, Francisco Liboro, Manuel Medina, Pantaleon Opena, Rev. Fr. Enrique Schmitz, mayor Isabelo Abeleda, Johnny Cheng, Amado Pio de Roda and Marquez Tenedora as members.",
+          "At the start of its operation, the chapter office was located at Mamburao, but by virtue of a resolution of the Board of Directors, it was transferred to San Jose, the most progressive and populous town in the province. The municipal council of San Jose readily welcomed and housed the Red Cross office at the municipal building.",
+          "In August 1963, Dr. Telesforo Calasanz visited the Chapter. He inaugurated two first aid stations in his capacity as PNRC manager at that time.",
+          "One provincial safety institute, five municipal safety institutes, and three municipal nursing institutes have been held by the chapter in the ensuing years.",
+          "First Aid stations and mobile units were established during athletic meets, rallies, elections, disasters and other big crowd gatherings.",
+          "Mass blood donations were conducted and turned out a success. People of the province responded wholeheartedly to the idea of blood-letting.",
+          "The Chapter was able to serve thousands of victims of typhoons and fires that hit the province. Aid was extended in the form of food, clothing and medicines",
+          "The Mindoro Occidental Red Cross chapter is at present ready to serve the less fortunate member of our society within the scope of Red Cross policies. With the help of its enthusiastic and ever willing leaders, the chapter is able to meet the demands of the times.",
+          "From then on, Occidental Mindoro Red Cross Chapter triumphantly evolved as the number one humanitarian organization in the province. True to its mission, the organization delivers humanitarian programs independently.",
         ],
       },
       {
@@ -760,9 +770,14 @@ const config = {
     description: "Final evaluation...",
     files: [
       {
-        type: "pdf",
-        file: "/appendices/evaluation-form.pdf",
-        caption: "Certificate of Completion for OJT at Sentro ng Wika at Kultura."
+        type: "image",
+        file: "/images/Evaluation1.jpg"
+      },{
+        type: "image",
+        file: "/images/Evaluation2.jpg"
+      },{
+        type: "image",
+        file: "/images/Evaluation3.jpg"
       }
     ]
   },{
@@ -810,11 +825,12 @@ const config = {
   {
     code: "C",
     title: "Evaluation Form",
-    description: "Final evaluation...",
+    description: "Evaluation...",
     files: [
-      {
-        type: "pdf",
-        file: "/appendices/evaluation-form.pdf"
+       {
+        type: "image",
+        file: "/appendices/Grade.jpg",
+        caption: "Certificate of Completion for OJT at Sentro ng Wika at Kultura."
       }
     ]
   },   
@@ -824,8 +840,8 @@ const config = {
     description: "Signed parental consent for participation in the program.",
     files: [
       {
-        type: "pdf",
-        file: "/appendices/evaluation-form.pdf"
+        type: "image",
+        file: "/images/Consent.jpg"
       }
     ] 
   },
@@ -835,8 +851,11 @@ const config = {
       description: "Health clearance for the internship period.",
     files: [
       {
-        type: "pdf",
-        file: "/appendices/evaluation-form.pdf"
+        type: "image",
+        file: "/images/MMU1.jpg"
+      },{
+        type: "image",
+        file: "/images/MMU2.jpg"
       }
     ]
     },
@@ -846,8 +865,8 @@ const config = {
       description: "Issued by the school's office of student affairs.",
     files: [
       {
-        type: "pdf",
-        file: "/appendices/evaluation-form.pdf"
+        type: "image",
+        file: "/images/GoodMoral.jpg"
       }
     ] },
     { 
@@ -856,8 +875,8 @@ const config = {
       description: "Formal letter of application sent to the host company.",
     files: [
       {
-        type: "pdf",
-        file: "/appendices/evaluation-form.pdf"
+        type: "image",
+        file: "/images/Letter.png"
       }
     ] },
     { 
@@ -866,8 +885,8 @@ const config = {
       description: "Endorsement from the school to the host company.",
     files: [
       {
-        type: "pdf",
-        file: "/appendices/evaluation-form.pdf"
+        type: "image",
+        file: "/images/Endorsment.png"
       }
     ] },
     { 
@@ -876,8 +895,24 @@ const config = {
       description: "Signed agreement between the school and the host company.",
     files: [
       {
-        type: "pdf",
-        file: "/appendices/evaluation-form.pdf"
+        type: "image",
+        file: "/images/MOA1.jpg"
+      },
+      {
+        type: "image",
+        file: "/images/MOA2.jpg"
+      },
+      {
+        type: "image",
+        file: "/images/MOA3.jpg"
+      },
+      {
+        type: "image",
+        file: "/images/MOA4.jpg"
+      },
+      {
+        type: "image",
+        file: "/images/MOA5.jpg"
       }
     ] },
     { 
@@ -896,8 +931,8 @@ const config = {
       description: "Issued by the host company upon successful completion.",
     files: [
       {
-        type: "pdf",
-        file: "/appendices/evaluation-form.pdf"
+        type: "image",
+        file: "/images/COC.jpg"
       }
     ] },
     { 
@@ -906,8 +941,8 @@ const config = {
       description: "Clearance from the host company prior to closing.",
     files: [
       {
-        type: "pdf",
-        file: "/appendices/evaluation-form.pdf"
+        type: "image",
+        file: "/images/Clearance.jpg"
       }
     ] },
     { 
@@ -917,8 +952,23 @@ const config = {
     files: [
       {
         type: "image",
-        file: "/appendices/evaluation-form.pdf"
-      }
+        file: "/images/PreServiceSeminar.jpg"
+      },{
+        type: "image",
+        file: "/images/PreServiceSeminar.jpg"
+      },{
+        type: "image",
+        file: "/images/PreServiceSeminar.jpg"
+      },{
+        type: "image",
+        file: "/images/PreServiceSeminar.jpg"
+      },{
+        type: "image",
+        file: "/images/PreServiceSeminar.jpg"
+      },{
+        type: "image",
+        file: "/images/PreServiceSeminar.jpg"
+      },
     ] },
     { 
       code: "N", 
@@ -929,7 +979,27 @@ const config = {
         type: "image",
         file: "/images/Certificate.jpg",
         caption: "Certificate received during the internship."
-      }
+      },
+      {
+        type: "image",
+        file: "/images/CA.jpg",
+        caption: "Certificate received during the internship."
+      },
+      {
+        type: "image",
+        file: "/images/COC.jpg",
+        caption: "Certificate received during the internship."
+      },
+      {
+        type: "image",
+        file: "/images/Participation.jpg",
+        caption: "Certificate received during the internship."
+      },
+      {
+        type: "image",
+        file: "/images/Certificate.jpg",
+        caption: "Certificate received during the internship."
+      },
     ] },
     { 
       code: "O", 
@@ -947,9 +1017,14 @@ const config = {
       description: "Updated CV / resume of the student trainee.",
     files: [
       {
-        type: "pdf",
-        file: "/appendices/evaluation-form.pdf"
-      }
+        type: "image",
+        file: "/images/CV.jpg",
+        caption: "Curriculum Vitae of the student."
+      },{
+        type: "image",
+        file: "/images/CV1.jpg",
+        caption: "Updated Curriculum Vitae of the student."
+      },
     ] },
     { 
       code: "Q", 
@@ -957,9 +1032,18 @@ const config = {
       description: "Final evaluation of this E-Portfolio document.",
     files: [
       {
-        type: "pdf",
-        file: "/appendices/evaluation-form.pdf"
-      }
+        type: "image",
+        file: "/images/Evaluation1.jpg",
+        caption: "Portfolio Evaluation Form."
+      },{
+        type: "image",
+        file: "/images/Evaluation2.jpg",
+        caption: "Portfolio Evaluation Form."
+      },{
+        type: "image",
+        file: "/images/Evaluation3.jpg",
+        caption: "Portfolio Evaluation Form."
+      },
     ] },
   ],
 

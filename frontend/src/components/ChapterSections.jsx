@@ -17,6 +17,7 @@ const ChapterSections = ({ sections }) => {
             style={{ animationDelay: `${0.05 + idx * 0.08}s` }}
             data-testid={`chapter-section-${s.id || idx}`}
           >
+            {/* LEFT SIDEBAR */}
             <div className="lg:col-span-3">
               <div className="sticky top-28">
                 <p className="font-mono text-[11px] uppercase tracking-[0.22em] text-ink-muted">
@@ -28,54 +29,55 @@ const ChapterSections = ({ sections }) => {
                 <span className="accent-rule mt-5" />
               </div>
             </div>
+
+            {/* RIGHT CONTENT */}
             <div className="lg:col-span-9">
+              {/* LIST MODE */}
               {s.list ? (
-                <>
-                  <ul className="space-y-4">
-                    {(s.body || []).map((line, i) => (
-                      <li
-                        key={i}
-                        className="flex gap-4 text-ink-soft leading-relaxed text-lg"
-                      >
-                        <span className="font-mono text-accent text-sm pt-1 shrink-0">
-                          {String(i + 1).padStart(2, "0")}
-                        </span>
-                        <span>{line}</span>
-                      </li>
-                    ))}
-                  </ul>
-                  {s.image && (
-                    <img
-                      src={s.image}
-                      alt={s.title}
-                      className="mt-6 rounded-lg w-full"
-                    />
-                  )}
-                </>
-                ) : (
+                <ul className="space-y-4 max-w-prose">
+                  {(s.body || []).map((line, i) => (
+                    <li
+                      key={i}
+                      className="flex gap-4 text-ink-soft leading-relaxed text-lg"
+                    >
+                      <span className="font-mono text-accent text-sm pt-1 shrink-0">
+                        {String(i + 1).padStart(2, "0")}
+                      </span>
+                      <span>{line}</span>
+                    </li>
+                  ))}
+                </ul>
+              ) : (
+                /* PARAGRAPH MODE */
                 <div className="space-y-6 max-w-prose">
                   {(s.body || []).map((p, i) => (
                     <p key={i} className="text-lg text-ink-soft leading-relaxed">
                       {p}
                     </p>
                   ))}
-                  {s.image && (
-                    <img
-                      src={s.image}
-                      alt={s.title}
-                      className="mt-6 rounded-lg w-full"
-                    />
-                  )}
                 </div>
               )}
+
+              {/* IMAGE (GLOBAL - CLEAN PLACEMENT) */}
+              {s.image && (
+                <img
+                  src={s.image}
+                  alt={s.title}
+                  className="mt-6 rounded-xl w-full object-cover"
+                />
+              )}
+
+              {/* SPECIAL COMPONENTS */}
               {s.id === "dtr" && s.dtr && (
                 <DTRCalendar dtr={s.dtr} />
               )}
+
               {s.id === "weekly" && s.weekly && (
-              <WeeklyCalendar data={s.weekly} />
+                <WeeklyCalendar data={s.weekly} />
               )}
+
               {s.id === "appendices" && s.appendices && (
-              <AppendicesViewer data={s.appendices} />
+                <AppendicesViewer data={s.appendices} />
               )}
             </div>
           </article>
