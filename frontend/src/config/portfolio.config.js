@@ -217,37 +217,37 @@ const config = {
                     day: "Thu",
                     date: "Jan 30",
                     tasks: [{ time: "08:00", activity: "Task" }],
-                    notes: "Notes"
+                    notes: "Deployment and orientation at the host company, including an introduction to the team, overview of company policies, and initial training on tools and software used in daily tasks."
                   },
                   {
                     day: "Mon",
                     date: "Feb 2",
                     tasks: [{ time: "08:00", activity: "Task" }],
-                    notes: "Notes"
+                    notes: "Continued orientation and training, including shadowing team members to understand workflow and project management processes. Assigned first tasks related to data entry and document organization."
                   },
                   {
                     day: "Tue",
                     date: "Feb 3",
                     tasks: [{ time: "08:00", activity: "Task" }],
-                    notes: "Notes"
+                    notes: "OIC give me a task of gathering a data to to put inside the Factbook page of the chapter, and I also did some research about the history of the chapter and the services that they provide to the public. I also did some data entry work and document organization."
                   },
                   {
                     day: "Wed",
                     date: "Feb 4",
                     tasks: [{ time: "08:00", activity: "Task" }],
-                    notes: "Notes"
+                    notes: "I continued to work on the Factbook page, gathering more data and organizing it into a clear and concise format. I also attended a team meeting where we discussed upcoming projects and deadlines."
                   },
                   {
                     day: "Thu",
                     date: "Feb 5",
                     tasks: [{ time: "08:00", activity: "Task" }],
-                    notes: "Notes"
+                    notes: "I continued to work on the Factbook page, gathering more data and organizing it into a clear and concise format. I also attended a team meeting where we discussed upcoming projects and deadlines."
                   },
                   {
                     day: "Fri",
                     date: "Feb 6",
                     tasks: [{ time: "08:00", activity: "Task" }],
-                    notes: "Notes"
+                    notes: "edited flyers for Mobile Blood Donation campaigns to inform the public about its purpose and importance, as assigned by Sir Ado. "
                   }
                 ]
               },
@@ -260,31 +260,31 @@ const config = {
                     day: "Mon",
                     date: "Feb 9",
                     tasks: [{ time: "08:00", activity: "Task" }],
-                    notes: "Notes"
+                    notes: "RC143 Certificate, Blood Certificate, Red Cross Youth Certificate Edit Using Canva"
                   },
                   {
                     day: "Tue",
                     date: "Feb 10",
                     tasks: [{ time: "08:00", activity: "Task" }],
-                    notes: "Notes"
+                    notes: "Continued on making RC143 Certificate, Blood Certificate, Red Cross Youth Certificate Edit Using Canva"
                   },
                   {
                     day: "Wed",
                     date: "Feb 11",
                     tasks: [{ time: "08:00", activity: "Task" }],
-                    notes: "Notes"
+                    notes: "Suggestion and Finalization for Standee Tarpaulin"
                   },
                   {
                     day: "Thu",
                     date: "Feb 12",
                     tasks: [{ time: "08:00", activity: "Task" }],
-                    notes: "Notes"
+                    notes: "Continued on Suggestion and Finalization for Standee Tarpaulin  "
                   },
                   {
                     day: "Fri",
                     date: "Feb 13",
                     tasks: [{ time: "08:00", activity: "Task" }],
-                    notes: "Notes"
+                    notes: "Visualization of the Standee Tarpaulin using Canva, and finalization of the design for printing."
                   }
                 ]
               },
@@ -297,25 +297,25 @@ const config = {
                     day: "Mon",
                     date: "Feb 16",
                     tasks: [{ time: "08:00", activity: "Task" }],
-                    notes: "Notes"
+                    notes: "Create Standie Tarp Membership Program   using Canva Encoding for safety and services "
                   },
                   {
                     day: "Wed",
                     date: "Feb 18",
                     tasks: [{ time: "08:00", activity: "Task" }],
-                    notes: "Notes"
+                    notes: "Continued on Creating Standie Tarp Membership Program using Canva Encoding for safety and services "
                   },
                   {
                     day: "Thu",
                     date: "Feb 19",
                     tasks: [{ time: "08:00", activity: "Task" }],
-                    notes: "Notes"
+                    notes: "Continued on Creating Standie Tarp Membership Program using Canva Encoding for safety and services "
                   },
                   {
                     day: "Fri",
                     date: "Feb 20",
                     tasks: [{ time: "08:00", activity: "Task" }],
-                    notes: "Notes"
+                    notes: "Continued on Creating Standie Tarp Membership Program using Canva Encoding for safety and services "
                   }
                 ]
               },
@@ -328,31 +328,31 @@ const config = {
                     day: "Mon",
                     date: "Feb 23",
                     tasks: [{ time: "08:00", activity: "Task" }],
-                    notes: "Notes"
+                    notes: "Preparation for OFAT Training by sir Kim Harold 2 Days, including gathering materials and setting up the training space."
                   },
                   {
                     day: "Tue",
                     date: "Feb 24",
                     tasks: [{ time: "08:00", activity: "Task" }],
-                    notes: "Notes"
+                    notes: "OFAT Training by sir Kim Harold 2 Days."
                   },
                   {
                     day: "Wed",
                     date: "Feb 25",
                     tasks: [{ time: "08:00", activity: "Task" }],
-                    notes: "Notes"
+                    notes: "OFAT Training by sir Kim Harold 2 Days."
                   },
                   {
                     day: "Thu",
                     date: "Feb 26",
                     tasks: [{ time: "08:00", activity: "Task" }],
-                    notes: "Notes"
+                    notes: "Assist for CNHS color fun run and Reviewing steps of Bandaging."
                   },
                   {
                     day: "Fri",
                     date: "Feb 27",
                     tasks: [{ time: "08:00", activity: "Task" }],
-                    notes: "Notes"
+                    notes: "Help on stripping blood."
                   }
                 ]
               },
@@ -365,31 +365,31 @@ const config = {
                     day: "Mon",
                     date: "Mar 2",
                     tasks: [{ time: "08:00", activity: "Task" }],
-                    notes: "Notes"
+                    notes: "Back on Encoding data to Factbook"
                   },
                   {
                     day: "Tue",
                     date: "Mar 3",
                     tasks: [{ time: "08:00", activity: "Task" }],
-                    notes: "Notes"
+                    notes: "Back on Encoding data to Factbook"
                   },
                   {
                     day: "Wed",
                     date: "Mar 4",
                     tasks: [{ time: "08:00", activity: "Task" }],
-                    notes: "Notes"
+                    notes: "Help organizing the file and document of the chapter"
                   },
                   {
                     day: "Thu",
                     date: "Mar 5",
                     tasks: [{ time: "08:00", activity: "Task" }],
-                    notes: "Notes"
+                    notes: "Back on Encoding data to Factbook"
                   },
                   {
                     day: "Fri",
                     date: "Mar 6",
                     tasks: [{ time: "08:00", activity: "Task" }],
-                    notes: "Notes"
+                    notes: "Chapter Conducted a meeting for upcoming MRAA in Sablayan, Occidental Mindoro"
                   }
                 ]
               },
@@ -402,37 +402,37 @@ const config = {
                     day: "Sun",
                     date: "Mar 8",
                     tasks: [{ time: "15:30", activity: "Task" }],
-                    notes: "Notes"
+                    notes: "Preparing to leave the chapter for the MRAA in Sablayan, Occidental Mindoro"
                   },
                   {
                     day: "Mon",
                     date: "Mar 9",
                     tasks: [{ time: "06:00", activity: "Task" }],
-                    notes: "Notes"
+                    notes: "Track and Field at Sablayan Complex with Sir Harold and Sir Cirillo First aid Station"
                   },
                   {
                     day: "Tue",
                     date: "Mar 10",
                     tasks: [{ time: "05:00", activity: "Task" }],
-                    notes: "Notes"
+                    notes: "Sepac Takraw medic Sablayan Complex "
                   },
                   {
                     day: "Wed",
                     date: "Mar 11",
                     tasks: [{ time: "07:30", activity: "Task" }],
-                    notes: "Notes"
+                    notes: "Track and Field at Sablayan Complex with Sir Harold and Sir Cirillo First aid Station"
                   },
                   {
                     day: "Thu",
                     date: "Mar 12",
                     tasks: [{ time: "05:00", activity: "Task" }],
-                    notes: "Notes"
+                    notes: "Sepac Takraw medic Sablayan Complex "
                   },
                   {
                     day: "Fri",
                     date: "Mar 13",
                     tasks: [{ time: "07:30", activity: "Task" }],
-                    notes: "Notes"
+                    notes: "Preparing to leave the MRAA in Sablayan, Occidental Mindoro"
                   }
                 ]
               },
@@ -445,31 +445,31 @@ const config = {
                     day: "Mon",
                     date: "Mar 16",
                     tasks: [{ time: "08:00", activity: "Task" }],
-                    notes: "Notes"
+                    notes: "Edit Participant Record & Inventory Checking "
                   },
                   {
                     day: "Tue",
                     date: "Mar 17",
                     tasks: [{ time: "08:50", activity: "Task" }],
-                    notes: "Notes"
+                    notes: "Edit Participant Record & Inventory Checking"
                   },
                   {
                     day: "Wed",
                     date: "Mar 18",
                     tasks: [{ time: "09:00", activity: "Task" }],
-                    notes: "Notes"
+                    notes: "Edit Participant Record & Inventory Checking"
                   },
                   {
                     day: "Thu",
                     date: "Mar 19",
                     tasks: [{ time: "08:10", activity: "Task" }],
-                    notes: "Notes"
+                    notes: "Edit Participant Record & Inventory Checking"
                   },
                   {
                     day: "Fri",
                     date: "Mar 20",
                     tasks: [{ time: "08:40", activity: "Task" }],
-                    notes: "Notes"
+                    notes: "Edit Participant Record & Inventory Checking"
                   }
                 ]
               },
@@ -482,31 +482,31 @@ const config = {
                     day: "Mon",
                     date: "Mar 23",
                     tasks: [{ time: "08:50", activity: "Task" }],
-                    notes: "Notes"
+                    notes: "OFAT Training by sir Harold in Pilot "
                   },
                   {
                     day: "Tue",
                     date: "Mar 24",
                     tasks: [{ time: "08:30", activity: "Task" }],
-                    notes: "Notes"
+                    notes: "OFAT Training by sir Harold in Pilot "
                   },
                   {
                     day: "Wed",
                     date: "Mar 25",
                     tasks: [{ time: "08:10", activity: "Task" }],
-                    notes: "Notes"
+                    notes: "Help on stripping blood and organizing the blood bag in the storage room"
                   },
                   {
                     day: "Thu",
                     date: "Mar 26",
                     tasks: [{ time: "08:40", activity: "Task" }],
-                    notes: "Notes"
+                    notes: "Help on stripping blood and organizing the blood bag in the storage room"
                   },
                   {
                     day: "Fri",
                     date: "Mar 27",
                     tasks: [{ time: "08:40", activity: "Task" }],
-                    notes: "Notes"
+                    notes: "Listening at NHQ WASH office online meet "
                   }
                 ]
               },
@@ -519,43 +519,43 @@ const config = {
                     day: "Mon",
                     date: "Mar 30",
                     tasks: [{ time: "08:40", activity: "Task" }],
-                    notes: "Notes"
+                    notes: "Meeting with the team of volunteer that is going to Krus na Parang 2026 and preparation for the event"
                   },
                   {
                     day: "Tue",
                     date: "Mar 31",
                     tasks: [{ time: "06:00", activity: "Task" }],
-                    notes: "Notes"
+                    notes: "Preparing to leave the chapter for the Krus na Parang 2026 event in Abra De Ilog, Occidental Mindoro"
                   },
                   {
                     day: "Wed",
                     date: "Apr 1",
                     tasks: [{ time: "04:00", activity: "Task" }],
-                    notes: "Notes"
+                    notes: "Kruz na parang in Abra De Ilog Occidental Mindoro First aid Station 14 "
                   },
                   {
                     day: "Thu",
                     date: "Apr 2",
                     tasks: [{ time: "04:00", activity: "Task" }],
-                    notes: "Notes"
+                    notes: "Kruz na parang in Abra De Ilog Occidental Mindoro First aid Station 14 "
                   },
                   {
                     day: "Fri",
                     date: "Apr 3",
                     tasks: [{ time: "04:00", activity: "Task" }],
-                    notes: "Notes"
+                    notes: "Kruz na parang in Abra De Ilog Occidental Mindoro First aid Station 14 "
                   },
                   {
                     day: "Sat",
                     date: "Apr 4",
                     tasks: [{ time: "04:00", activity: "Task" }],
-                    notes: "Notes"
+                    notes: "Kruz na parang in Abra De Ilog Occidental Mindoro First aid Station 14 and end of the event"
                   },
                   {
                     day: "Sun",
                     date: "Apr 5",
                     tasks: [{ time: "04:00", activity: "Task" }],
-                    notes: "Notes"
+                    notes: "Preparing to leave the Abra De Ilog, Occidental Mindoro and going back to the chapter"
                   }
                 ]
               },
@@ -568,19 +568,19 @@ const config = {
                     day: "Mon",
                     date: "Apr 6",
                     tasks: [{ time: "07:30", activity: "Task" }],
-                    notes: "Notes"
+                    notes: "Organizing documents "
                   },
                   {
                     day: "Tue",
                     date: "Apr 7",
                     tasks: [{ time: "09:00", activity: "Task" }],
-                    notes: "Notes"
+                    notes: "Scanned documents and organizing the file of the chapter"
                   },
                   {
                     day: "Fri",
                     date: "Apr 10",
                     tasks: [{ time: "09:30", activity: "Task" }],
-                    notes: "Notes"
+                    notes: "Finalizing documents and preparing for the next meeting"
                   }
                 ]
               },
@@ -593,19 +593,19 @@ const config = {
                     day: "Mon",
                     date: "Apr 14",
                     tasks: [{ time: "08:30", activity: "Task" }],
-                    notes: "Notes"
+                    notes: "Inventory checking "
                   },
                   {
                     day: "Wed",
                     date: "Apr 16",
                     tasks: [{ time: "08:15", activity: "Task" }],
-                    notes: "Notes"
+                    notes: "Inventory checking "
                   },
                   {
                     day: "Thu",
                     date: "Apr 17",
                     tasks: [{ time: "08:00", activity: "Task" }],
-                    notes: "Notes"
+                    notes: "Inventory checking "
                   }
                 ]
               },
@@ -618,19 +618,19 @@ const config = {
                     day: "Mon",
                     date: "Apr 20",
                     tasks: [{ time: "10:00", activity: "Task" }],
-                    notes: "Notes"
+                    notes: "Inventory checking and organizing the storage room of the chapter"
                   },
                   {
                     day: "Wed",
                     date: "Apr 22",
                     tasks: [{ time: "09:30", activity: "Task" }],
-                    notes: "Notes"
+                    notes: "Inventory checking and organizing the storage room of the chapter"
                   },
                   {
                     day: "Thu",
                     date: "Apr 23",
                     tasks: [{ time: "09:00", activity: "Task" }],
-                    notes: "Notes"
+                    notes: "Inventory checking and organizing the storage room of the chapter"
                   }
                 ]
               },
@@ -643,12 +643,12 @@ const config = {
                     day: "Thu",
                     date: "Apr 30",
                     tasks: [{ time: "06:30", activity: "Task" }],
-                    notes: "Notes"
+                    notes: "First day of the Youth Volunteer Formation Course held at SJAA,"
                   },
                   {
                     day: "Fri",
                     date: "May 1",
-                    tasks: [{ time: "06:30", activity: "Task" }],
+                    tasks: [{ time: "06:30-5:30", activity: "Task" }],
                     notes: "Final OJT completion"
                   }
                 ]
@@ -788,37 +788,37 @@ const config = {
       {
         type: "image",
         file: "/images/Photo1.jpg",
-        caption: "Certificate of Completion for OJT at Sentro ng Wika at Kultura."
+        caption: "Office Work Photo 1"
       },
       {
         type: "image",
         file: "/images/Photo2.jpg",
-        caption: "Certificate of Completion for OJT at Sentro ng Wika at Kultura."
+        caption: "Office Work Photo 2"
       },
       {
         type: "image",
         file: "/images/Photo3.jpeg",
-        caption: "Certificate of Completion for OJT at Sentro ng Wika at Kultura."
+        caption: "Office Work Photo 3"
       },
       {
         type: "image",
         file: "/images/Photo4.jpeg",
-        caption: "Certificate of Completion for OJT at Sentro ng Wika at Kultura."
+        caption: "Office Work Photo 4"
       },
       {
         type: "image",
         file: "/images/Photo5.jpg",
-        caption: "Certificate of Completion for OJT at Sentro ng Wika at Kultura."
+        caption: "Office Work Photo 5"
       },
       {
         type: "image",
         file: "/images/Photo6.jpg",
-        caption: "Certificate of Completion for OJT at Sentro ng Wika at Kultura."
+        caption: "Office Work Photo 6"
       },
       {
         type: "image",
         file: "/images/Photo7.jpg",
-        caption: "Certificate of Completion for OJT at Sentro ng Wika at Kultura."
+        caption: "Office Work Photo 7"
       }
     ]
   },
@@ -830,7 +830,7 @@ const config = {
        {
         type: "image",
         file: "/appendices/Grade.jpg",
-        caption: "Certificate of Completion for OJT at Sentro ng Wika at Kultura."
+        caption: "Evaluation Form"
       }
     ]
   },   
