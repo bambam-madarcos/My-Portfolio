@@ -829,7 +829,7 @@ const config = {
     files: [
        {
         type: "image",
-        file: "/appendices/Grade.jpg",
+        file: "/appendices/GRADE.jpg",
         caption: "Evaluation Form"
       }
     ]
