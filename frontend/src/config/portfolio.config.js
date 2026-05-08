@@ -922,7 +922,7 @@ const config = {
     files: [
       {
         type: "pdf",
-        file: "/appendices/evaluation-form.pdf"
+        file: "/images/DTR.pdf"
       }
     ] },
     { 
@@ -1008,7 +1008,7 @@ const config = {
     files: [
       {
         type: "image",
-        file: "/appendices/evaluation-form.pdf"
+        file: "/images/Code.png",
       }
     ] },
     { 
